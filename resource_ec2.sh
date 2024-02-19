@@ -4,7 +4,9 @@
 ####################EC2 Resource Test script####################
 
 ###Author:James############################
-##This Script will list the AWS resource usage################
+
+###This Script will list the AWS resource usage#############
+###AWS devops learning############
 ################
 
 
